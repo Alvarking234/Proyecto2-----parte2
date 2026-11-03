@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Escritorio\proye\XELASPORT\XELASPORT\obj\Debug\net10.0\XELASPORT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Escritorio\proye\XELASPORT\XELASPORT\obj\Debug\net10.0\XELASPORT.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Escritorio\proye\XELASPORT\XELASPORT\obj\Debug\net10.0\XELASPORT.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Escritorio\proye\XELASPORT\XELASPORT\obj\Debug\net10.0\XELASPORT.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\proye\XELASPORT\XELASPORT\bin\Debug\net10.0\XELASPORT.exe
+C:\Users\HP\OneDrive\Escritorio\proye\XELASPORT\XELASPORT\bin\Debug\net10.0\XELASPORT.deps.json
+C:\Users\HP\OneDrive\Escritorio\proye\XELASPORT\XELASPORT\bin\Debug\net10.0\XELASPORT.runtimeconfig.json
+C:\Users\HP\OneDrive\Escritorio\proye\XELASPORT\XELASPORT\bin\Debug\net10.0\XELASPORT.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Escritorio\proye\XELASPORT\XELASPORT\bin\Debug\net10.0\XELASPORT.dll
+C:\Users\HP\OneDrive\Escritorio\proye\XELASPORT\XELASPORT\bin\Debug\net10.0\XELASPORT.pdb
+C:\Users\HP\OneDrive\Escritorio\proye\XELASPORT\XELASPORT\obj\Debug\net10.0\XELASPORT.dll
+C:\Users\HP\OneDrive\Escritorio\proye\XELASPORT\XELASPORT\obj\Debug\net10.0\refint\XELASPORT.dll
+C:\Users\HP\OneDrive\Escritorio\proye\XELASPORT\XELASPORT\obj\Debug\net10.0\XELASPORT.pdb
+C:\Users\HP\OneDrive\Escritorio\proye\XELASPORT\XELASPORT\obj\Debug\net10.0\XELASPORT.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Escritorio\proye\XELASPORT\XELASPORT\obj\Debug\net10.0\ref\XELASPORT.dll
+C:\Users\HP\OneDrive\Escritorio\proye\XELASPORT\XELASPORT\obj\Debug\net10.0\XELASPORT.csproj.Up2Date

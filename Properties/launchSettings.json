@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "XELASPORT": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
